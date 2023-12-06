@@ -1,2 +1,2 @@
 # share
-dummy json 데이터를 제공합니다.
+dummy 데이터를 제공합니다.
